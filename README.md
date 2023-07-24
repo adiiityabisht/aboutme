@@ -1,4 +1,5 @@
-# aboutme 👨‍💻
+# aboutme 👨‍💻 
+
 
 Welcome to my portfolio website! This project showcases my skills, projects, and experiences. It is built using React and styled with Tailwind CSS, giving it a modern and responsive design. The website also features an engaging background animation powered by particlesJS, adding a touch of creativity and interactivity. ✨🎨🌈
 
